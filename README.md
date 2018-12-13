@@ -1,5 +1,9 @@
-cd ~
-git clone git@github.com:JSebas95/dotfiles.git && cd dotfiles
+    cd ~
+    git clone git@github.com:JSebas95/dotfiles.git && cd dotfiles
 
-###Install grpc and docker
-sudo ./GRPC/install_grpc.sh
+### Install Docker and docker-compose
+    sudo ./GRPC/install_grpc.sh
+
+### Install images for grpc
+    sudo ./GRPC/install_grpc.sh
+
